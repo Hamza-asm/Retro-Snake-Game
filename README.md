@@ -15,6 +15,8 @@
  =========================================================
 ```
 
+# 🚀 [Try the Game Here!](https://retro-snake-ff728d.netlify.app/)
+
 # Retro Snake Game
 
 A classic retro-styled snake game built with modern web technologies. This project was developed with an emphasis on recreating an authentic "CRT" arcade experience while ensuring smooth performance across both desktop and mobile devices.
