@@ -1,0 +1,6 @@
+{
+  "name": "Retro Snake",
+  "description": "A classic retro-styled snake game with multiple themes, obstacles, and skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
